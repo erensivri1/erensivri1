@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFqrDXLw0HNAg/profile-displaybackgroundimage-shrink_350_1400/0/1719995698882?e=1727308800&v=beta&t=CW_cGQSVvkA8qku05eIIRq-_erwaaxndEYhR6E5IOLM)
-<h1 align="center">Hi 👋, I'm M.Eren Sivri</h1>
+<h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate student developer from Turkey</h3>
 
 - 🌱 I’m currently learning **software developing**
